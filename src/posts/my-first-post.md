@@ -6,7 +6,10 @@ description: Capitalize on low hanging fruit to identify a ballpark value added
 author: Surjith S M
 date: 2020-09-01
 tags:
-  - Tags
+  - left
+  - center
+  - right
+  - post
 ---
 # This is a Heading h1
 
