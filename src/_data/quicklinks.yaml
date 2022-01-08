@@ -1,8 +1,8 @@
 ---
 links:
-  - title: Netlify CMS
+  - title: Comincia qui
     url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
+    desc: Una selezione degli articoli più interessanti che ho trovato sul web
   - title: Eleventy
     url: "https://www.11ty.dev/"
     desc: Eleventy is a simpler static site generator.
