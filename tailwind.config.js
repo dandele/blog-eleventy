@@ -13,6 +13,9 @@ module.exports = {
     extend: {
       colors: {},
     },
+    colors: {
+      white: '#fafafa',
+    },
   },
   variants: {},
   plugins: [require("@tailwindcss/typography")],
